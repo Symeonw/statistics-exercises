@@ -37,7 +37,7 @@ out_final
 #n = 10_000
 #male_heights = np.random.normal(178,8,n)
 #female_heights = np.random.normal(170, 6, n)
-#(female_heights > male_heights).mean()
+#(female_heights > male_heights).mkiol,an()
 
 stu = 50
 chance = 1/250
